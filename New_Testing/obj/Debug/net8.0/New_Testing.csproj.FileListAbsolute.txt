@@ -12,3 +12,4 @@ D:\Belajar_Dasar_C#\New_Testing\New_Testing\obj\Debug\net8.0\refint\New_Testing.
 D:\Belajar_Dasar_C#\New_Testing\New_Testing\obj\Debug\net8.0\New_Testing.pdb
 D:\Belajar_Dasar_C#\New_Testing\New_Testing\obj\Debug\net8.0\New_Testing.genruntimeconfig.cache
 D:\Belajar_Dasar_C#\New_Testing\New_Testing\obj\Debug\net8.0\ref\New_Testing.dll
+D:\Belajar_Dasar_C#\New_Testing\New_Testing\obj\Debug\net8.0\New_Testing.sourcelink.json
